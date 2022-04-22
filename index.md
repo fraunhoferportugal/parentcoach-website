@@ -7,7 +7,7 @@ title: ParentCoach
 
 ParentCoach  is a research project that is creating a chatbot to support first-time parents in caring for the health and wellbeing of their children. We will explore challenges, information needs, and health literacy of parents in Portugal and South Africa, drawing on ethnographic and participatory research with parents, family members, educators, and clinicians. The developed chatbot will be tested in field trials and we expect to be able to impact the lives of parents and children. Moreover, ParentCoach will foster sharing and dissemination of knowledge regarding user research, participatory design, and Human-Computer Interaction as a whole between the Portuguese and South African context.
 
-`We are looking for volunteers to join our research. If you live in Portugal or South Africa and have a child who is two or younger, we may be able to include you in our workshops. Feel free to contact us.`
+`We are looking for volunteers to join our research. If you live in Portugal or South Africa and have a child who is two or younger, we may be able to include you in our workshops. Feel free to contact us.`<br/><br/>
 
 
 ## Motivation
