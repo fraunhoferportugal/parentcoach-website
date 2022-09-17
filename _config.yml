@@ -101,14 +101,14 @@ keywords: "Parent, First-time parent, chatbot"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0ecca6"
+navbar-col: "#f7ad00"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#0ecca6"
+footer-col: "#f7ad00"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
