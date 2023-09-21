@@ -23,21 +23,30 @@ During the second day, participants will continue working in small groups in the
 
 ## Target audience
 
+<br/>
 - HCI students (PhD, advanced post-graduate)
 - Postdocs
 - Early career researchers<br/><br/>
 
 ## Lecturers
 
-- Alastair Van Heerden, University of Witwatersrand & Human Sciences Research Council
-- Beatriz Félix, Fraunhofer Portugal AICOS
-- Joana Couto Silva, Fraunhofer Portugal AICOS
-- Heike Winschiers-Theophilus, Namibia University of Science & Technology
-- Melissa Densmore, University of Cape Town
-- Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
-- Nervo Verdezoto, Cardiff University
-- Shaimaa Lazem, City of Scientific Research and Technology Applications
-- Thulani Ngubane, Human Sciences Research Council<br/><br/>
+Alastair Van Heerden, University of Witwatersrand & Human Sciences Research Council
+
+Beatriz Félix, Fraunhofer Portugal AICOS
+
+Joana Couto Silva, Fraunhofer Portugal AICOS
+
+Heike Winschiers-Theophilus, Namibia University of Science & Technology
+
+Melissa Densmore, University of Cape Town
+
+Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
+
+Nervo Verdezoto, Cardiff University
+
+Shaimaa Lazem, City of Scientific Research and Technology Applications
+
+Thulani Ngubane, Human Sciences Research Council<br/><br/>
 
 ## Registration and funding support
 
