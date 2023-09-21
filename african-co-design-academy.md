@@ -29,7 +29,7 @@ During the second day, participants will continue working in small groups in the
 
 ## Lecturers
 
-- Alastair Van Heerden, University of Witwatersrand and Human Sciences Research Council
+- Alastair Van Heerden, University of Witwatersrand & Human Sciences Research Council
 - Beatriz Félix, Fraunhofer Portugal AICOS
 - Joana Couto Silva, Fraunhofer Portugal AICOS
 - Heike Winschiers-Theophilus, Namibia University of Science & Technology
