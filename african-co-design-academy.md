@@ -5,8 +5,11 @@ title: African Co-Design Academy
 ---
 
 > November 26th and 27th
+> 
 > East London , Eastern Cape, South Africa
+> 
 > Co-located with AfriCHI 2023
+> 
 > Register at: [[link]](https://forms.gle/utuAmGL9yYgbFZg87)
 
 The African Co-design Academy is a two-day summer school focused on exploring co-design approaches and best practices, with a particular emphasis on the African context. The academy aims to enhance participants' knowledge of co-design, share exemplary approaches to co-design in Africa, foster networking opportunities, establish connections between African SIGCHI chapters, and encourage collaboration among African researchers and students in HCI and related disciplines.
