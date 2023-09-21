@@ -52,7 +52,7 @@ Thulani Ngubane, Human Sciences Research Council<br/><br/>
 
 The summer school has no participation cost, but [registration](https://forms.gle/utuAmGL9yYgbFZg87) is required until October 13th, 2023. 
 
-Meals and refreshments will be offered during the summer school for all participants. Moreover, we will offer 8-10 scholarships to support the travel and accommodation of participants.<br/><br/>
+Meals and refreshments will be offered during the summer school to all participants. Moreover, we will offer 8-10 scholarships to support the travel and accommodation of participants.<br/><br/>
 
 ## Contact
 For doubts and clarifications about the summer school, please send an email to beatriz.felix AT fraunhofer.pt and ctill AT varsitycollege.co.za.<br/><br/>
