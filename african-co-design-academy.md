@@ -48,4 +48,4 @@ Meals and refreshments will be offered during the summer school to all participa
 For doubts and clarifications about the summer school, please send an email to beatriz.felix AT fraunhofer.pt and ctill AT varsitycollege.co.za.<br/><br/>
 
 ## Sponsor
-The African Co-Design Academy acknowledges the support from the [SIGCHI Development Fund](https://sigchi.org/resources/sigchi-development-fund/) and the ParentCoach project.<br/><br/>
+The African Co-Design Academy acknowledges the support from the [SIGCHI Development Fund](https://sigchi.org/resources/sigchi-development-fund/) and the [ParentCoach](https://parentcoach.projects.fraunhofer.pt) project.<br/><br/>
