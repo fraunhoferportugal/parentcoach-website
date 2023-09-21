@@ -4,6 +4,9 @@ title: African Co-Design Academy
 # subtitle: 
 ---
 
+> November 26th and 27th
+> East London , Eastern Cape, South Africa
+> Co-located with AfriCHI 2023
 
 The African Co-design Academy is a two-day summer school focused on exploring co-design approaches and best practices, with a particular emphasis on the African context. The academy aims to enhance participants' knowledge of co-design, share exemplary approaches to co-design in Africa, foster networking opportunities, establish connections between African SIGCHI chapters, and encourage collaboration among African researchers and students in HCI and related disciplines.
 
@@ -30,23 +33,15 @@ During the second day, participants will continue working in small groups in the
 
 ## Lecturers
 
-Alastair Van Heerden, University of Witwatersrand & Human Sciences Research Council
-
-Beatriz Félix, Fraunhofer Portugal AICOS
-
-Joana Couto Silva, Fraunhofer Portugal AICOS
-
-Heike Winschiers-Theophilus, Namibia University of Science & Technology
-
-Melissa Densmore, University of Cape Town
-
-Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
-
-Nervo Verdezoto, Cardiff University
-
-Shaimaa Lazem, City of Scientific Research and Technology Applications
-
-Thulani Ngubane, Human Sciences Research Council<br/><br/>
+- Alastair Van Heerden, University of Witwatersrand & Human Sciences Research Council
+- Beatriz Félix, Fraunhofer Portugal AICOS
+- Joana Couto Silva, Fraunhofer Portugal AICOS
+- Heike Winschiers-Theophilus, Namibia University of Science & Technology
+- Melissa Densmore, University of Cape Town
+- Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
+- Nervo Verdezoto, Cardiff University
+- Shaimaa Lazem, City of Scientific Research and Technology Applications
+- Thulani Ngubane, Human Sciences Research Council<br/><br/>
 
 ## Registration and funding support
 
