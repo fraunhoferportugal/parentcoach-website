@@ -7,25 +7,25 @@ title: African Co-Design Academy
 
 The African Co-design Academy is a two-day summer school focused on exploring co-design approaches and best practices, with a particular emphasis on the African context. The academy aims to enhance participants' knowledge of co-design, share exemplary approaches to co-design in Africa, foster networking opportunities, establish connections between African SIGCHI chapters, and encourage collaboration among African researchers and students in HCI and related disciplines.
 
-The event will take place on November 26th and 27th 2023, in East London, South Africa, co-located with AfriCHI 2023. We will accommodate approximately 18 participants.
+The event will take place on November 26th and 27th 2023, in East London, South Africa, co-located with AfriCHI 2023. We will accommodate approximately 18 participants.<br/><br/>
 
 ## Objectives
 
 - Familiarise participants with co-design methods, with examples from work conducted in the African context;
 - Briefly experiment with co-design approaches, through hands-on exercises and projects;
-- Promote discussion and knowledge exchange among participants and between African SIGCHI chapters.
+- Promote discussion and knowledge exchange among participants and between African SIGCHI chapters.<br/><br/>
 
 ## Contents and organisation
 
 During the first day, participants will be introduced to community-based co-design, communication and collaboration in co-design, and co-design readiness. We will also present tools and techniques to engage participants, including speculative design, games as co-design tools, design cards, or other traditional community-based approaches. Participants will be able to experiment with these techniques in a small group project focused on creating a communication/collaboration tool for African HCI researchers. 
 
-During the second day, participants will continue working in small groups in their project. In parallel, we will encourage reflection on ethical issues, sharing with participants some obstacles that have appeared in the field, and inviting them to think about how to develop or build trust with the communities to then ensure the sustainability of collaborations with community partners.
+During the second day, participants will continue working in small groups in their project. In parallel, we will encourage reflection on ethical issues, sharing with participants some obstacles that have appeared in the field, and inviting them to think about how to develop or build trust with the communities to then ensure the sustainability of collaborations with community partners.<br/><br/>
 
 ## Target audience
 
 - HCI students (PhD, advanced post-graduate)
 - Postdocs
-- Early career researchers
+- Early career researchers<br/><br/>
 
 ## Lecturers
 
@@ -37,17 +37,17 @@ During the second day, participants will continue working in small groups in the
 - Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
 - Nervo Verdezoto, Cardiff University
 - Shaimaa Lazem, City of Scientific Research and Technology Applications
-- Thulani Ngubane, Human Sciences Research Council
+- Thulani Ngubane, Human Sciences Research Council<br/><br/>
 
 ## Registration and funding support
 
 The summer school has no participation cost, but [registration](https://forms.gle/utuAmGL9yYgbFZg87) is required until October 13th, 2023. 
 
-Meals and refreshments will be offered during the summer school for all participants. Moreover, we will offer 8-10 scholarships to support the travel and accommodation of participants.
+Meals and refreshments will be offered during the summer school for all participants. Moreover, we will offer 8-10 scholarships to support the travel and accommodation of participants.<br/><br/>
 
 ## Contact
-For doubts and clarifications about the summer school, please send an email to beatriz.felix AT fraunhofer.pt and ctill AT varsitycollege.co.za.
+For doubts and clarifications about the summer school, please send an email to beatriz.felix AT fraunhofer.pt and ctill AT varsitycollege.co.za.<br/><br/>
 
 
 ## Sponsor
-The African Co-Design Academy acknowledges the support from the SIGCHI Development Fund and the ParentCoach project.
+The African Co-Design Academy acknowledges the support from the SIGCHI Development Fund and the ParentCoach project.<br/><br/>
