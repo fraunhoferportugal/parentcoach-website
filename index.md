@@ -37,4 +37,4 @@ With ParentCoach we plan on addressing the knowledge gap of parents and families
 
 ## Funding
 
-ParentCoach is funded by Fundação para a Ciência e Tecnologia and Aga Khan Development Network ([FCT AGA-KHAN / 541742216 / 2019](https://www.fct.pt/apoios/cooptrans/imamat_ismaili/index.phtml.en)). <br/><br/>
+ParentCoach is funded by Fundação para a Ciência e Tecnologia and Aga Khan Development Network ([FCT AGA-KHAN / 541742216 / 2019](https://former.fct.pt/apoios/cooptrans/imamat_ismaili/index.phtml.en)). <br/><br/>
