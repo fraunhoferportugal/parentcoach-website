@@ -41,6 +41,7 @@ During the second day, participants will continue working in small groups in the
 - Naveen Bagalkot, Srishti Manipal Institute of Art, Design and Technology, Manipal Academy of Higher Education
 - Nervo Verdezoto, Cardiff University
 - Shaimaa Lazem, City of Scientific Research and Technology Applications
+- Sarina Till, Independent Institute of Education & University of Cape Town
 - Thulani Ngubane, Human Sciences Research Council<br/><br/>
 
 
