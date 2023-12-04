@@ -17,7 +17,7 @@ The event will take place on November 26<sup>th</sup> and 27<sup>th</sup> 2023, 
 > - Games as Co-Design Techniques [PDF](/files/GamesAsCo-DesignTechniques.pdf) by Joana Couto Silva
 > - Qualitative Data Analysis [PDF](/files/QualitativeDataAnalysis.pdf) by Beatriz Félix
 > - Building and Sustaining a Community Research Project [PDF](/files/BuildingAndSustainingACommunity.pdf) by Thulani Ngubane
-<br/>
+<br/><br/>
 
 ## Objectives
 
