@@ -8,8 +8,8 @@ The African Co-design Academy is a two-day summer school focused on exploring co
 
 The event will take place on November 26<sup>th</sup> and 27<sup>th</sup> 2023, in East London, South Africa, co-located with [AfriCHI 2023](https://africhi2023.org/). We will accommodate approximately 18 participants.<br/><br/>
 
-> ### Update: Presentations from the African Co-Design Academy
-
+> ### Updates: 
+> #### Presentations from the African Co-Design Academy
 > - Community-Based Co-Design [PDF](/files/Community-BasedCo-Design.pdf) by Heike Winschiers-Theophilus
 > - Co-Design Readiness [PDF](/files/Co-DesignReadiness.pdf) by Sarina Till
 > - Bring Your Critical Gear to Your Co-Design projects [PDF](/files/BringYourCriticalGear.pdf) by Shaimaa Lazem
@@ -17,6 +17,8 @@ The event will take place on November 26<sup>th</sup> and 27<sup>th</sup> 2023, 
 > - Games as Co-Design Techniques [PDF](/files/GamesAsCo-DesignTechniques.pdf) by Joana Couto Silva
 > - Qualitative Data Analysis [PDF](/files/QualitativeDataAnalysis.pdf) by Beatriz Félix
 > - Building and Sustaining a Community Research Project [PDF](/files/BuildingAndSustainingACommunity.pdf) by Thulani Ngubane
+> #### Other materials
+> - Handbook with agenda and preparatory readings [PDF](/files/Handbook.pdf)
 <br/><br/>
 
 ## Objectives
