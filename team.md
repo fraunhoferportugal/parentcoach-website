@@ -5,6 +5,8 @@ title: Team
 ---
 
 
+![ParentCoach project meeting in South Africa (2023)](parentcoach-team.jpg)
+
 ParentCoach was pursued by a consortium of five institutions, with proven experience in ethnographic fieldwork, Participatory Design, chatbot development, mHealth, and business, which was essential for creating a chatbot product to be used in Portugal and South Africa. The project partners were:
 
 

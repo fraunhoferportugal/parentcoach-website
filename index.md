@@ -24,7 +24,7 @@ We conducted user research and participatory design in Portugal and South Africa
 
 ## Project Goals
 
-With ParentCoach we planned on addressing the knowledge gap of parents and families, by democratizing neonatal care knowledge in Portugal and South Africa. In more depth, our goals were as follows: 
+With ParentCoach we addressed the knowledge gap of parents and families, by democratizing neonatal care knowledge in Portugal and South Africa. In more depth, our goals were as follows: 
 
 * Investigate past experiences and learning practices of parents using the Aurora chatbot;
 * Understand health literacy of parents, uncover information needs and experience, and select relevant content to include in the improved Aurora chatbot (Aurora2);
