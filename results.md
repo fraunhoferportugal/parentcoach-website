@@ -31,6 +31,16 @@ The project ParentCoach started in January 2022 and finished in December 2024.<b
 * [Perspectives of Parents and Healthcare Professionals on Using Chatbots to Support Parents in Child Health: A Qualitative Study](https://dl.acm.org/doi/full/10.1145/3757232.3757252), 2025 at AfriCHI'25 <br/><br/>
 
 
+## Theses
+
+* Diana Campos Liebetrau, [Characterising user engagement of parents with the Aurora chatbot](https://open.uct.ac.za/items/068b59b3-48f9-4982-9710-729df6148a8e), 2024 at UCT
+* Ndinelao Iitumba, [Community-centred network management for community wireless networks (CWNs)](https://open.uct.ac.za/items/bbf1d7a9-a426-42ae-9186-52824a780115), 2024 at UCT
+* Leina Meoli, [ParentCoach: co-designing a chatbot to support first-time parents](https://open.uct.ac.za/items/08de4730-552d-4b9e-8d5d-7a2e386aaa3c), 2025 at UCT
+* Sharifa Negesa, [Choose-your-own-adventure (CYOA): an empathy digital training tool for healthcare workers in maternity settings](https://open.uct.ac.za/items/3ea2dadf-b427-4e04-a119-9dc6535c94cb), 2025 at UCT
+* Joana Couto, (Work-in-progress) Addressing sensitive topics with participants through co-design, 2026 at University of Porto
+* Sarina Till, (Under review) Co-Design Is Not Enough: Lessons Learned and Experiences From Exploring Co-Design Readiness, Co-Creation and Co-Deployment in Technology Design
+
+
 
 ## Training  
 
