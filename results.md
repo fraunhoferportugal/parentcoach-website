@@ -26,7 +26,9 @@ The project ParentCoach started in January 2022 and finished in December 2024.<b
 
 * [African Co-Design: Past, Present, and Emerging](https://dl.acm.org/doi/abs/10.1145/3628096.3629080), 2023 at AfriCHI'23 
 * [A Not So Chatty "Chatbot": Co-designing to support First-Time Parents in South Africa and Portugal](https://dl.acm.org/doi/abs/10.1145/3640794.3665571), 2024 at CUI'24. Awarded with Honorable Mention Short Paper 
-* [Understanding How Parents Deal With the Health Advice They Receive: A Qualitative Study and Implications for the Design of Message-based Health Dissemination Systems for Child Health](https://dl.acm.org/doi/10.1145/3643834.3661504), 2024 at DIS'24 <br/><br/>
+* [Understanding How Parents Deal With the Health Advice They Receive: A Qualitative Study and Implications for the Design of Message-based Health Dissemination Systems for Child Health](https://dl.acm.org/doi/10.1145/3643834.3661504), 2024 at DIS'24
+* [Perspectives of Parents and Healthcare Professionals on Using Chatbots to Support Parents in Child Health: A Qualitative Study](https://dl.acm.org/doi/full/10.1145/3757232.3757252), 2025 at AfriCHI'25 <br/><br/>
+
 
 
 ## Training  
